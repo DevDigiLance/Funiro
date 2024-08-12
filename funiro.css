@@ -1,0 +1,85 @@
+body {margin: 0;
+    padding: 0;
+}
+.Container {
+    width: 100%;
+    margin: 0px;
+    border: 1px solid blue;
+}
+.navbar{
+    background-color: yellow;
+    padding: 20px 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.HSAC{
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+    gap: 60px;
+}
+.icons{
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+    gap: 40px;
+}
+.mainheader{
+    background-color: red;
+    width: 100%;
+    height: 800px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.squarebox{
+    width: 40%;
+    height: 70vh;
+    background-color: rgb(250, 224, 199);
+    position: absolute;
+    top: 300px;
+    right: 20px;
+    padding: 20px;
+    border-radius: 4px;
+    text-align: justify;
+}
+.newarrival{
+    font-weight: bold;
+    font-size: large;
+}
+.discover{
+    font-size: xx-large;
+    font-weight: bolder;
+    color: rgba(226, 180, 41, 0.918) ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.lorem{
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btn{
+    padding: 20px 70px;
+    background-color: rgb(136, 99, 5);
+    color:white ;
+}
+.header2{
+    border: 2px solid red;
+    margin: 30px;
+    padding: 10px;
+    display: flex;
+}
+.images1{
+    border-radius: 10px;
+    margin-top: 200px;
+    margin-right: 200px;
+    display: flex;
+    gap: 50px;
+    
+}
+.browse{
+    margin-left:  100px;
+    text-align: center;
+}
+.lorem2{
+    margin-left: 100px;
+    text-align: center;
+}
